@@ -1,0 +1,7 @@
+{
+    "token": "OTEyNjU3NjY0NDIzNjI4ODEx.YZzIrw.8pxkVOBNHcqyGu85_DyIU-RZFEU",
+    "mongooseConnectionString": "mongodb+srv://afrid_devs:<password>@afrid.dc6j1.mongodb.net/test",
+    "fail": "❌",
+    "success": "✔",
+    "ban": "🪐"
+}
